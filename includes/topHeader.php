@@ -5,15 +5,8 @@
                 <i class="ti-menu ti-close"></i>
             </a>
             <div class="navbar-brand">
-                <a href="../index.php" class="logo">
-                    <b class="logo-icon">
-                        <img src="../../assets/images/logo-icon.png" alt="homepage" class="dark-logo" />
-                        <img src="../../assets/images/logo-light-icon.png" alt="homepage" class="light-logo" />
-                    </b>
-                    <span class="logo-text">
-                        <img src="../../assets/images/logo-text.png" alt="homepage" class="dark-logo" />
-                        <img src="../../assets/images/logo-light-text.png" class="light-logo" alt="homepage" />
-                    </span>
+                <a href="../dashboard.php" class="logo">
+                    Rabbani
                 </a>
                 <a class="sidebartoggler d-none d-md-block" href="javascript:void(0)" data-sidebartype="mini-sidebar">
                     <i class="mdi mdi-toggle-switch mdi-toggle-switch-off font-20"></i>
